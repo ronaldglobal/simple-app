@@ -16,7 +16,9 @@ Aplikasi sederhana untuk project pembelajaran GIT pada GitHUb Mata Kuliah Cloud 
 
 ## Tentang Proyek
 
-Contoh aplikasi untuk pembelajaran mahasiswa institut bina sarana global yang berhubungan dengan CI (continious integration) menggunakan git dan github
+1.  Contoh aplikasi untuk pembelajaran mahasiswa institut bina sarana global yang berhubungan dengan CI (continious integration) menggunakan git dan github. Aplikasi ini bersumber dari : https://www.geeksforgeeks.org/create-a-single-page-application-using-html-css-javascript/
+2.  Mahasiswa akan melakukan modifikasi terhadap source code pada git terminal masing-masing dan melihat perubahan di github repo masing-masing
+
 
 ## Prasyarat
 
@@ -37,3 +39,6 @@ Contoh aplikasi untuk pembelajaran mahasiswa institut bina sarana global yang be
 
 ```HTML css Javascript
 # (Contoh kode)
+
+## Detail Kontak
+
