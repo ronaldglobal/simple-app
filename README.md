@@ -1,9 +1,7 @@
 # Simple App FrontEnd
 
 ## Deskripsi Proyek
-Aplikasi sederhana untuk project pembelajaran GIT pada GitHUb
-Mata Kuliah Cloud Computing Lanjutan
-Proyek ini adalah ...
+Aplikasi sederhana untuk project pembelajaran GIT pada GitHUb Mata Kuliah Cloud Computing Lanjutan
 
 ## Daftar Isi
 
@@ -18,7 +16,7 @@ Proyek ini adalah ...
 
 ## Tentang Proyek
 
-Contoh aplikasi s=untuk pembelajaran mahasiswa global yang berhubungan dengan CI (continious integration) menggunakan git dan github
+Contoh aplikasi untuk pembelajaran mahasiswa institut bina sarana global yang berhubungan dengan CI (continious integration) menggunakan git dan github
 
 ## Prasyarat
 
