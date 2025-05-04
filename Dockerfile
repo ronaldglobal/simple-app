@@ -10,3 +10,4 @@ COPY . /usr/share/nginx/html
 # expose port 80
 EXPOSE 80
 
+
